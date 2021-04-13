@@ -1,0 +1,11 @@
+{
+  "@@locale": "pt_BR",
+  "closeButtonText": "Fechar",
+  "pokemonBottomNavigationItem": "Pokémon",
+  "favoritesBottomNavigationItem": "Favoritos",
+  "genericErrorMessage": "Não foi possível estabelecer comunicação, tente novamente.",
+  "noConnectionErrorMessage": "Parece que você não está conectado à internet.",
+  "genericErrorActionButtonTitle": "Tente novamente!",
+  "genericErrorTitle": "Erro",
+  "appBarTitle": "PokéDapp"
+}
